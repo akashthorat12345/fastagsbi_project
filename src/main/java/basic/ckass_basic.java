@@ -21,4 +21,13 @@ public class AddNumbers {
     }
 }
 
+
+package basic;
+
+public class ckass_basic {
+    public static void main(String[] args) {
+        System.out.println("Hello from Dev2!");
+    }
+}
+
 //aksah
