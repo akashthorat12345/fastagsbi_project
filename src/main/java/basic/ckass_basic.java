@@ -3,7 +3,12 @@ package basic;
 public class ckass_basic {
 
 	system.out
-	system.out1
+	
+	public class HelloWorld {
+	    public static void main(String[] args) {
+	        System.out.println("Hello, Git and Eclipse!");
+	    }
+	}
 }
 
 //aksah
